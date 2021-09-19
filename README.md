@@ -1,1 +1,1 @@
-watchDog = 1.0.0
+WatchDog = 1.0.0
